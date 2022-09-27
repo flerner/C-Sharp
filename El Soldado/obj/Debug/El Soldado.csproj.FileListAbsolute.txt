@@ -1,0 +1,8 @@
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\bin\Debug\El Soldado.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\bin\Debug\El Soldado.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\bin\Debug\El Soldado.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\obj\Debug\El Soldado.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\obj\Debug\El Soldado.csproj.SuggestedBindingRedirects.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\obj\Debug\El Soldado.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\obj\Debug\El Soldado.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\El Soldado\El Soldado\obj\Debug\El Soldado.pdb
